@@ -1,0 +1,7 @@
+C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\bin\Debug\DepthCrawlerGame.exe.config
+C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\bin\Debug\DepthCrawlerGame.exe
+C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\bin\Debug\DepthCrawlerGame.pdb
+C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\obj\Debug\DepthCrawlerGame.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\obj\Debug\DepthCrawlerGame.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\obj\Debug\DepthCrawlerGame.exe
+C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\obj\Debug\DepthCrawlerGame.pdb
