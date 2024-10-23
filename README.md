@@ -70,3 +70,5 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
   </li>
   
 </ul>
+<p>Combat can also be affected by entity specific statistics such as different monster types having unique weaknesses, resistances and even invulnerabilities as well as stat boosting special abilities. Examples of this include resistances to slashing damage from swords and axes or weaknesses to fire damage from spells which will increase or reduce damage from those sources. Some monsters are also invulnerable to status effects such as poison or stuns.</p>
+<p>In the case of the player, base stats are altered during combat. Equipped weapons have their own individual stats that effect the player, for example, damage and guarding will add to player strength and defense while weigth will reduce agility. Most weapons are balanced such that they excel in some aspect while being weaker in others. For example, the battle hammer excels in damage and guarding ability but heavily reduces agility, where as the short sword is well rounded in all aspects without excelling in any particular category.</p>
