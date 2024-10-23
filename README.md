@@ -7,8 +7,8 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
 <p>Primary Actions can be broken down into 4 main mechanics which come in the form of executeable actions that the player can choose between. These are:</p>
 <ul>
   <li><p>Leave Room</p></li>
-  <li><p>Attack</p></li>
-  <li><p>Search </p></li>
-  <li><p>Inventory</p></li>
+  <li><p>Surprise Attack</p></li>
+  <li><p>Search for Valuables</p></li>
+  <li><p>Check Inventory</p></li>
 </ul>
-<img src="Images/MainActionDemo">
+<img src="Images/MainActionDemo.png">
