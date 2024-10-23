@@ -53,7 +53,7 @@ namespace DepthCrawlerGame
 
 
 
-            FillGoodEnfingQueue();
+            FillGoodEndingQueue();
             FillBadEndingQueue();
         }
 
@@ -265,7 +265,7 @@ namespace DepthCrawlerGame
             dragonRoomQueue.Enqueue("Mending together, the bright rays form into a dragon, now standing where the altar had been.");
         }
 
-        private static void FillGoodEnfingQueue()
+        private static void FillGoodEndingQueue()
         {
             goodEnding.Enqueue("Injured From The Fight, You Stumble To The Chamber Exit, Leaning Against The Walls Of The Room As You Go. Once There, From Your Backpack, You Take Out A Map That Zorin Had Given You Before Parting Ways.");
             goodEnding.Enqueue("The Map, Hand Drawn With What Looks To Be Coal From A Fire, Traces A Path To A Door.");

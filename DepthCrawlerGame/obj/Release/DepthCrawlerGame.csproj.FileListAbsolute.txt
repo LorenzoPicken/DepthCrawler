@@ -5,3 +5,10 @@ C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject
 C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\obj\Release\DepthCrawlerGame.csproj.CoreCompileInputs.cache
 C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\obj\Release\DepthCrawlerGame.exe
 C:\Users\Lorenzo\Desktop\Lasalle\Lasalle Semester 4\Data Structures\FinalProject\DepthCrawlerGame\obj\Release\DepthCrawlerGame.pdb
+C:\Users\Lorenzo\Documents\GitHub\DepthCrawler\DepthCrawlerGame\bin\Release\DepthCrawlerGame.exe.config
+C:\Users\Lorenzo\Documents\GitHub\DepthCrawler\DepthCrawlerGame\bin\Release\DepthCrawlerGame.exe
+C:\Users\Lorenzo\Documents\GitHub\DepthCrawler\DepthCrawlerGame\bin\Release\DepthCrawlerGame.pdb
+C:\Users\Lorenzo\Documents\GitHub\DepthCrawler\DepthCrawlerGame\obj\Release\DepthCrawlerGame.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Documents\GitHub\DepthCrawler\DepthCrawlerGame\obj\Release\DepthCrawlerGame.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Documents\GitHub\DepthCrawler\DepthCrawlerGame\obj\Release\DepthCrawlerGame.exe
+C:\Users\Lorenzo\Documents\GitHub\DepthCrawler\DepthCrawlerGame\obj\Release\DepthCrawlerGame.pdb
