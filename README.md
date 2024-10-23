@@ -50,11 +50,11 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
 <ul>
   <li>
     <h4>Hit Points</h4>
-    <p>Hit Point or HP are the health of the associated entity. When this drops to zero, the entity will die. For the player, this results in a game over</p>
+    <p>Hit Point or HP are the health of the associated entity. When this drops to zero, the entity will die. For the player, this results in a game over.</p>
   </li>
   <li>
     <h4>Strength</h4>
-    <p>Strength directly correlates to damage that an entity can deal. Strength is also used in calculating the probability of a succesful guard break against a foe by mesuring against the opponents defense when attacking.</p>
+    <p>Strength directly correlates to the damage that an entity can deal. Strength is also used in calculating the probability of a succesful guard break against a foe by mesuring against the opponents defense when attacking.</p>
   </li>
   <li>
     <h4>Defense</h4>
@@ -66,6 +66,7 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
   </li>
   <li>
     <h4>Accuracy</h4>
+    <p>Finally, accuracy determines the probability of attacks hitting vital areas during combat, resulting in higher damage numbers. The higher the accuracy of an entity, the more likely they are to hit the torso of an opponent or even the head as supposed to the limbs which are more well guarded.</p>
   </li>
   
 </ul>
