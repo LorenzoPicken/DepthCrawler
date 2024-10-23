@@ -26,7 +26,7 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
 
 
 <h3>Combat</h3>
-<p>Combat is a focal point of gameplay as the player will encounter various foes as they travel through the dungeons various chambers. Whenever the player enters a new chamber, there is a chance that they will partake in battle, whether this be by choice of the player or a forced confrontation by the enemy occupying the room. This is determined by the enemy's awareness, a predetermined state that is assigned to them when they spawn. This awareness can be one of three possibilities:</p>
+<p>Combat is a focal point of gameplay as the player will encounter various foes as they travel through the dungeon's various chambers. Whenever the player enters a new chamber, there is a chance that they will partake in battle, whether this be by choice of the player or a forced confrontation by the enemy occupying the room. This is determined by the enemy's awareness, a predetermined state that is assigned to them when they spawn. This awareness can be one of three possibilities:</p>
 
 <ul>
   <li>
@@ -73,3 +73,7 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
 <p>Combat can also be affected by entity specific statistics such as different monster types having unique weaknesses, resistances and even invulnerabilities as well as stat boosting special abilities. Examples of this include resistances to slashing damage from swords and axes or weaknesses to fire damage from spells which will increase or reduce damage from those sources. Some monsters are also invulnerable to status effects such as poison or stuns.</p>
 <p>In the case of the player, base stats are altered during combat. Equipped weapons have their own individual stats that effect the player. For example, damage and guard effectiveness will add to player strength and defense while weigth will reduce agility. Most weapons are balanced such that they excel in some aspect while being weaker in others. For example, the battle hammer excels in damage and guarding ability but heavily reduces agility. By contrast, the flail has above average damage and slightly lower weigth at the cost of being a poor defensive choice.</p>
 <p>Mana and fatigue levels also directly affect performance and must be managed in order to not suffer any drawbacks. Low mana will prevent spell casting which can be very powerful in a battle. Fatigue will heavily hinders combat ability if it gets too high as it will reduce agility, defense and strength accross the board.</p>
+<br><br>
+
+<h4>Looting</h4>
+<p>Looting is another focal point of the experience and will be the main mechanic that allows the player to cheat death. Due to how prominent combat is, ressources such as mana, fatigue and even health can be expended rather quickly. Because of this, support items are a very powerful ressource that can be collected during a playthrough. These items can help replenish health and mana, deplete fatigue build up, cure ailements and even provide temporary stat boosts.</p>
