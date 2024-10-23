@@ -27,9 +27,20 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
 
 <h3>Combat</h3>
 <p>Combat is a focal point of gameplay as the player will encounter various foes as they travel through the dungeons various chambers. Whenever the player enters a new chamber, there is a chance that they will partake in a battle, whether this be by choice of the player or a forced confrontation by the enemy occupying the room. This is determined by the enemy's awareness, a predetermined state that is assigned to them when they spawn. This awareness can be one of three possibilities:</p>
+
 <ul>
-  <li>Alert</li>
-  <li>Distracted</li>
-  <li>Asleep</li>
+  <li>
+    <h4>Alert</h4>
+    <p>An alert enemy will automatically force a confrontation upon entering its chamber. These enemies are not subseptible to surprise attacks</p>
+  </li>
+  <li>
+    <h4>Distracted</h4>
+    <p>A distracted enemy will not force the player into a battle upon entering the room, however, they are easily alerted by actions such as looting or attempting to leave the chamber. These foes are subseptible to surprise attacks.</p>
+  </li>
+  <li>
+    <h4>Asleep</h4>
+    <p>Sleeping foes are the least likely to notice a player when they enter the chamber and will not force combat unless alerted. Actions such as looting or attempting to leave the room are possible without alerting the enemy however, the longer a player remains in the chamber, the higher the chance that they wake the sleeping monster. While asleep, they are subseptible to surprise attacks.</p>
+  </li>
 </ul>
 
+<p>Upon triggering a battle, the player will be locked into turn based combat with their opponent. When</p>
