@@ -9,10 +9,10 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
 <p>The main gameplay loop revolves around exploring the dungeon in order to find support items, complete quests and eventually reach the ending. To do this, the player is given access to Primary Actions. </p>
 <p>Primary Actions can be broken down into 4 main mechanics which come in the form of executeable actions that the player can choose between. These are:</p>
 <ul>
-  <li><p>Leave Room</p></li>
-  <li><p>Surprise Attack</p></li>
-  <li><p>Search for Valuables</p></li>
-  <li><p>Check Inventory</p></li>
+  <li><p>Navigation</p></li>
+  <li><p>Combat</p></li>
+  <li><p>Looting</p></li>
+  <li><p>Inventory</p></li>
 </ul>
 <img src="Images/MainActionDemo.png">
 <br><br>
