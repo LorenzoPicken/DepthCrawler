@@ -26,7 +26,7 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
 
 
 <h3>Combat</h3>
-<p>Combat is a focal point of gameplay as the player will encounter various foes as they travel through the dungeons various chambers. Whenever the player enters a new chamber, there is a chance that they will partake in a battle, whether this be by choice of the player or a forced confrontation by the enemy occupying the room. This is determined by the enemy's awareness, a predetermined state that is assigned to them when they spawn. This awareness can be one of three possibilities:</p>
+<p>Combat is a focal point of gameplay as the player will encounter various foes as they travel through the dungeons various chambers. Whenever the player enters a new chamber, there is a chance that they will partake in battle, whether this be by choice of the player or a forced confrontation by the enemy occupying the room. This is determined by the enemy's awareness, a predetermined state that is assigned to them when they spawn. This awareness can be one of three possibilities:</p>
 
 <ul>
   <li>
@@ -43,4 +43,29 @@ with another project <a href="#">Death Delt Hand</a>. This game relies heavily o
   </li>
 </ul>
 
-<p>Upon triggering a battle, the player will be locked into turn based combat with their opponent. When</p>
+<p>Upon triggering a battle, the player will be locked into turn based combat with their opponent. In this situation, regular action prompts will be replaced with combat specific actions as seen bellow:</p>
+<img src="Images/CombatDemo.png">
+<br>
+<p>Combat is a game of probability determined by taking both the player and the monster's statistics and pitting them up against each other to determine the likelyhood of a succesful action. These statistics are:</p>
+<ul>
+  <li>
+    <h4>Hit Points</h4>
+    <p>Hit Point or HP are the health of the associated entity. When this drops to zero, the entity will die. For the player, this results in a game over</p>
+  </li>
+  <li>
+    <h4>Strength</h4>
+    <p>Strength directly correlates to damage that an entity can deal. Strength is also used in calculating the probability of a succesful guard break against a foe by mesuring against the opponents defense when attacking.</p>
+  </li>
+  <li>
+    <h4>Defense</h4>
+    <p>Defense is first and foremost a value used in the calculation of damage negation. The higher the defense compared to the strength value of an incoming attack, the less damage that attack will do. Defense also determines the likelyhood of a succesful block against incoming attacks when guarding.</p>
+  </li>
+  <li>
+    <h4>Agility</h4>
+    <p>Agility has two main functions in combat. The first is determining the likelyhood of an attack missing its intended target. The second function is for mid-fight escapes. In both cases, the agility of both fighters are mesured against each other. The fighter with the highest agility, is more likely to avoid attacks and succesfully escape.</p>
+  </li>
+  <li>
+    <h4>Accuracy</h4>
+  </li>
+  
+</ul>
