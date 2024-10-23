@@ -2365,7 +2365,7 @@ namespace DepthCrawlerGame
                 counterAttack = $"Slashing At You With Its Tendrils, The Flurry Of Whipping strikes Bring You To Your Knees.";
                 failedBlock = $"Barely Slipping Between Its Tentacles, Your Weapon Grazes The Eyes, Scratching The Thin Film That Protects It.";
 
-                clash = $"Blocking Your {player.CurrentEquippedWeapon.Name} The Creature Attempts To Block Your Strike. You ush On The Weapon Hard Forcing The {player.Target.Name} To Dissengage.";
+                clash = $"Blocking Your {player.CurrentEquippedWeapon.Name} The Creature Attempts To Block Your Strike. You Push On The Weapon Hard Forcing The {player.Target.Name} To Dissengage.";
 
                 headDamage = $"Using A Faint, You Are Able To Trick The Beast Into Protecting Its Side, Allowing You To Attack The Upper Part Of Its Eye. The Creature Retreats In Pain.";
                 bodyDamage = $"A Well Placed Foot To The {player.Target.Name}'s Eye Forces It To Back Away A Few Feet.";
