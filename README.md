@@ -85,7 +85,15 @@ with another one of my projects, <a href="#">Death Delt Hand</a>. This game reli
 <br><br>
 
 <h2>Procedural Generation</h2>
-<p>As explained above, the game heavily relies on procedural generation. This procedural generation affects the layout of the rooms and its contents, meaning room types, enemies and lootable items.</p>
+<p>As explained above, the game heavily relies on procedural generation. This procedural generation affects the layout of the rooms and its contents. This ensures that no two playthroughs are the same, giving this game more replayability. The following is a list of all procedurally generated elements.</p>
 <br>
 <h4>Rooms</h4>
-<p></p>
+<p>There are three different types of rooms within the game files. These are the Dungeon Rooms, Loot Rooms and Quest Rooms. Upon entering a new chamber, the room will be generated based on one of these three templates. Which template the system chooses is completely random and only affected by the spawn chance of each room type, aside from one exception.</p>
+<br>
+<h5>Dungeon Room</h5>
+<p>The Dungeon Room is the most common type of chamber to spawn and has the following conditions:</p>
+<ul>
+  <li>Must Contain 1 Enemy</li>
+  <li>May Contain Lootable Items</li>
+  <li>Cannot Contain Any NPCs</li>
+</ul>
