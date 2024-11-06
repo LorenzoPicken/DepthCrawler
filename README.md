@@ -119,7 +119,7 @@
 <ul>
   <li>Can Only Contain Boss Type Enemies</li>
   <li>Cannot Contain Lootable Items</li>
-  <li>Must Contain NPC's or a Cutscene</li>
+  <li>Must Contain NPCs or a Cutscene</li>
 </ul>
 <p>Unlike the other rooms, Quest Rooms have a spawn gap of 3 to avoid potentially completing the story by accessing all the rooms back to back. Additionally, a quest room cannot spawn unless the player has reached the corresponding point in the story to access that room or completed the quest to unlock it.</p>
 <br><br>
