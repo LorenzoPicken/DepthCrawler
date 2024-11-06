@@ -86,10 +86,10 @@
 <h2>Procedural Generation</h2>
 <p>As explained above, the game heavily relies on procedural generation. This procedural generation affects the layout of the rooms and its contents. This ensures that no two playthroughs are the same, giving this game more replayability. The following is a list of all procedurally generated elements.</p>
 <br>
-<h4>Rooms</h4>
+<h3>Rooms</h3>
 <p>There are three different types of rooms within the game files. These are the Dungeon Rooms, Loot Rooms and Quest Rooms. Upon entering a new chamber, the room will be generated based on one of these three templates. Which template the system chooses is completely random and only affected by the spawn chance of each room type, aside from one exception.</p>
 <br>
-<h5>Dungeon Room</h5>
+<h4>Dungeon Room</h4>
 <p>The Dungeon Room is the most common type of chamber to spawn and has the following conditions:</p>
 <ul>
   <li>Must Contain 1 Enemy</li>
@@ -98,7 +98,7 @@
 </ul>
 <p>The bulk of the challenges that the player faces will take place within rooms of this type during combat. This is the only common room that will contain enemies.</p>
 <br>
-<h5>Loot Room</h5>
+<h4>Loot Room</h4>
 <p>Loot rooms are more rare than dungeon rooms but in exchange also have a much higher chance of spawning some consumables for the player to loot.</p>
 <ul>
   <li>Cannot Contain Enemies</li>
@@ -107,7 +107,7 @@
 </ul>
 <p>The more loot rooms a player finds in their playthrough, the higher their chances of survival.</p>
 
-<h5>Quest Room</h5>
+<h4>Quest Room</h4>
 <p>Quest Rooms are the rarest of all the possible rooms and trigger events that progress the story. These rooms contain NPCs, Cutscenes and Boss Fights</p>
 <ul>
   <li>Can Only Contain Boss Type Enemies</li>
@@ -116,7 +116,7 @@
 </ul>
 <p>Unlike the other rooms, Quest Rooms have a spawn gap of 3 to avoid potentially completing the story by accessing all the rooms back to back. Additionally, a quest room cannot spawn unless the player has reached the corresponding point in the story to access that room or completed the quest to unlock it.</p>
 <br><br>
-<h4>Monsters</h4>
+<h3>Monsters</h3>
 <p>All monsters aside from Boss Monsters are procedurally generated with the room which randomises the species, subspecies and statistics. In the game, there are 6 types of basic monster species:</p>
 <ul>
   <li>Minotaurs</li>
