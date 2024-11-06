@@ -156,4 +156,7 @@
 
 <h3>Improved Combat System</h3>
 <p>The current combat system can feel very unfair and needs an overhaul. Enemies do too much damage, can be difficult to hit and often repeat actions too often. This was an issue I noticed during developpement but didn't have enough time to improve it with finalising the story taking priority at that time.</p>
+<br><br>
 
+<h2>To Conclude...</h2>
+<p>A complete playthrough of Depth Crawler takes between 15 to 30 minutes and contains two different endings which are achieved based on the decisions that the player makes throughout the playthrough. While not all the features that were planned could be added, I am very satisfied with the outcome of the story and gameplay. I chose to end development on this project after the two weeks I was given were up as I enjoy the idea of having a small project like this to demonstrate my abilities to work under pressure and because I am happy with the overall current state of the game.</p>
