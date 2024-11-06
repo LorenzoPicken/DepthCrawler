@@ -49,7 +49,7 @@
 <ul>
   <li>
     <h4>Hit Points</h4>
-    <p>Hit Point or HP are the health of the associated entity. When this drops to zero, the entity will die. For the player, this results in a game over.</p>
+    <p>Hit Points or HP is the health of the associated entity. When this drops to zero, the entity will die. For the player, this results in a game over.</p>
   </li>
   <li>
     <h4>Strength</h4>
