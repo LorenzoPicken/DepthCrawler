@@ -79,9 +79,10 @@
 <img src="Images/LootingDemo.png">
 <br><br>
 
-<h3>Other Actions</h3>
+<h3>Secondary Actions</h3>
 <h4>The Journal</h4>
 <p>The journal is a magical book which will inscribe all commands spoken to it onto its pages. The main point of this feature is to get around the limitations of not possessing a visual map for the player to be able to keep track of their location. By inscribing their actions into the book, they can keep track of their movements and backtrack if the need arises.</p>
+<img src="Images/LootingDemo.png">
 <br><br>
 
 
