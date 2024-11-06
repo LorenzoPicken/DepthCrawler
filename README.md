@@ -78,3 +78,14 @@ with another one of my projects, <a href="#">Death Delt Hand</a>. This game reli
 <h4>Looting</h4>
 <p>Looting is another focal point of the experience and will be the main mechanic that allows the player to cheat death. Due to how prominent combat is, ressources such as mana, fatigue and even health can be expended rather quickly. Because of this, support items are a very powerful ressource that can be collected during a playthrough. These items can help replenish health and mana, deplete fatigue build up, cure ailements and even provide temporary stat boosts. While there are searcheable items in the environment, the player will have the option to search them to find various consumables so long as they arent in combat. Upon typing the *SEARCH* prompt, a looting menu will be displayed with a list of all places the player can search. This includes bookshelves, vases, skeletal remains, etc. Searcheable items are created along with the room they are in and can either reward the player with a consumable or yield nothing.</p>
 <img src="Images/LootingDemo.png">
+<br><br>
+
+<h2>NPC Interactions</h2>
+<p>Upon entering a room, if an NPC is present, the player will be able to interact with them through a special menu. This menu is only available if an NPC is in the current room. These interactions can reveal information about the world the player finds themselves in, start a quest, progress the story, or even reward the player with an item or effect. NPC's can be spoken to multiple times which will unlock new dialogue. Additionally, as the story progresses, new characters will present themselves and existing ones will have their dialogue updated.</p>
+<br><br>
+
+<h2>Procedural Generation</h2>
+<p>As explained above, the game heavily relies on procedural generation. This procedural generation affects the layout of the rooms and its contents, meaning room types, enemies and lootable items.</p>
+<br>
+<h4>Rooms</h4>
+<p></p>
