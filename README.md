@@ -79,6 +79,12 @@
 <img src="Images/LootingDemo.png">
 <br><br>
 
+<h3>Other Actions</h3>
+<h4>The Journal</h4>
+<p>The journal is a magical book which will inscribe all commands spoken to it onto its pages. The main point of this feature is to get around the limitations of not possessing a visual map for the player to be able to keep track of their location. By inscribing their actions into the book, they can keep track of their movements and backtrack if the need arises.</p>
+<br><br>
+
+
 <h2>NPC Interactions</h2>
 <p>Upon entering a room, if an NPC is present, the player will be able to interact with them through a special menu. This menu is only available if an NPC is in the current room. These interactions can reveal information about the world the player finds themselves in, start a quest, progress the story, or even reward the player with an item or effect. NPC's can be spoken to multiple times which will unlock new dialogue. Additionally, as the story progresses, new characters will present themselves and existing ones will have their dialogue updated.</p>
 <br><br>
