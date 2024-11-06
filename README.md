@@ -97,3 +97,21 @@ with another one of my projects, <a href="#">Death Delt Hand</a>. This game reli
   <li>May Contain Lootable Items</li>
   <li>Cannot Contain Any NPCs</li>
 </ul>
+<p>The bulk of the challenges that the player faces will take place within rooms of this type during combat. This is the only common room that will contain enemies.</p>
+<br>
+<h5>Loot Room</h5>
+<p>Loot rooms are more rare than dungeon rooms but in exchange also have a musch higher chance of spawning some consumables for the player to loot.</p>
+<ul>
+  <li>Cannot Contain Enemies</li>
+  <li>Must Contain Lootable Items (Higher Max Items Than Dungeon Rooms)</li>
+  <li>Cannot Contain Any NPCs</li>
+</ul>
+<p>The more loot rooms a player finds in their playthrough, the higher their chances of survival.</p>
+
+<h5>Quest Room</h5>
+<p>Quest Rooms are the rarest of all the possible rooms and trigger events that progress the story. These rooms contain NPCs, Cutscenes and Boss Fights</p>
+<ul>
+  <li>Can Only Contain Boss Type Enemies</li>
+  <li>Cannot Contain Lootable Items</li>
+  <li>Must Contain NPC's or a Cutscene</li>
+</ul>
