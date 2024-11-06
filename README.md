@@ -74,7 +74,7 @@
 <p>Mana and fatigue levels also directly affect performance and must be managed in order to not suffer any drawbacks. Low mana will prevent spell casting which can be very powerful in a battle. Fatigue will heavily hinders combat ability if it gets too high as it will reduce agility, defence and strength across the board.</p>
 <br><br>
 
-<h4>Looting</h4>
+<h3>Looting</h3>
 <p>Looting is another focal point of the experience and will be the main mechanic that allows the player to cheat death. Due to how prominent combat is, resources such as mana, fatigue and even health can be expended rather quickly. Because of this, support items are a very powerful resource that can be collected during a playthrough. These items can help replenish health and mana, deplete fatigue build up, cure ailments and even provide temporary stat boosts. While there are searchable items in the environment, the player will have the option to search them to find various consumables so long as they aren't in combat. Upon typing the *SEARCH* prompt, a looting menu will be displayed with a list of all places the player can search. This includes bookshelves, vases, skeletal remains, etc. Searchable items are created along with the room they are in and can either reward the player with a consumable or yield nothing.</p>
 <img src="Images/LootingDemo.png">
 <br><br>
