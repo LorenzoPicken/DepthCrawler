@@ -115,3 +115,15 @@ with another one of my projects, <a href="#">Death Delt Hand</a>. This game reli
   <li>Cannot Contain Lootable Items</li>
   <li>Must Contain NPC's or a Cutscene</li>
 </ul>
+<p>Unlike the other rooms, Quest Rooms have a spawn gap of 3 to avoid potentially completing the story by accessing all the rooms back to back. Additionally, a quest room cannot spawn unless the player has reached the corresponding point in the story to access that room or completed the quest to unlock it.</p>
+<br><br>
+<h4>Monsters</h4>
+<p>All monsters aside from Boss Monsters are procedurally generated with the room which randomizes the species, subspecies and statistics. In the game, there are 6 types of basic monster species:</p>
+<ul>
+  <li>Minotaurs</li>
+  <li>Giant Spiders</li>
+  <li>Gargoyles</li>
+  <li>Bonedrikes</li>
+  <li>Occulus Seakers</li>
+  <li>Living Armour</li>
+</ul>
