@@ -79,6 +79,11 @@
 <img src="Images/LootingDemo.png">
 <br><br>
 
+<h3>Inventory</h3>
+<p>The Inventory is where the player can gain access to their items and equipment and is divided into two sections. The first section is the holster and will allow the player to switch between weapons when needed. The second section is the backpack and is where all the consumables are held. Upon accessing the backpack, the player will be presented with a list of all items currently inside as well as the quantity of each item (Consumables can stack infinitely). By typing the name of the consumable then prompting the command *CONSUME*, the user will be presented with a confirmation message and the inventory will be adjusted. Following this, the effects of the consumable will be applied. The inventory can be accessed both during and outside of combat, however, switching weapons or using a consumable counts as a turn when in battle and will force the player back out of their inventory upon confirming an action.</p>
+<img src="Images/InventoryDemo.png">
+<br><br>
+
 <h3>Secondary Actions</h3>
 <h4>The Journal</h4>
 <p>The journal is a magical book which will inscribe all commands spoken to it onto its pages. The main point of this feature is to get around the limitations of not possessing a visual map for the player to be able to keep track of their location. By inscribing their actions into the book, they can keep track of their movements and backtrack if the need arises.</p>
