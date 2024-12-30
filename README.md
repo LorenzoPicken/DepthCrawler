@@ -1,5 +1,5 @@
 <h1>Depth Crawler</h1>
-<p>is a text based, dungeon crawler, action RPG with a simple looting and combat system as well as a fully realised story reliant on NPC dialogue and a quest system. This project takes a lot of inspiration from RPGs like runescape and Dark Souls as well as a combat system similar to pokemon. This was a solo project developed over the span of two weeks in Visual Studio, in parallel with another one of my projects, <a href="#">Death Delt Hand</a>. This game relies heavily on random procedural generation which allows for a different experience each and every playthrough. This randomness effects the map layout, enemy spawns, loot chances as well as other factors.</p>
+<p>is a text based, dungeon crawler, action RPG with a simple looting and combat system as well as a fully realised story reliant on NPC dialogue and a quest system. This project takes a lot of inspiration from RPGs like Runescape and Dark Souls as well as a combat system similar to pokemon. This was a solo project developed over the span of two weeks in Visual Studio, in parallel with another one of my projects, <a href="#">Death Delt Hand</a>. This game relies heavily on random procedural generation which allows for a different experience each and every playthrough. This randomness effects the map layout, enemy spawns, loot chances as well as other factors.</p>
 <br>
 
 
